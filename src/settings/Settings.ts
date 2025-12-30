@@ -13,6 +13,7 @@ export enum MetricType {
   daily,
   total,
   folder,
+  section,
 }
 
 export interface Metric {
