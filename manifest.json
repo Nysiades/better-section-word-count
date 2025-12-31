@@ -2,11 +2,13 @@
   "id": "better-section-word-count",
   "name": "Better Section Word Count",
   "version": "0.1.0",
+  "minAppVersion": "1.0.0",
   "description": "Counts the words of the current editing section in the editor.",
   "author": "Nysiades",
   "authorUrl": "https://github.com/Nysiades",
   "isDesktopOnly": false
 }
+
 
 
 
